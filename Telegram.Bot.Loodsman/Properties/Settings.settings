@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Telegram.Bot.Loodsman.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProxyUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">zakirov</Value>
+    </Setting>
+    <Setting Name="ProxyPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ZvI6Ukiy</Value>
+    </Setting>
+    <Setting Name="BotToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">138846732:AAF4Om-yx9k6QJQ0_OhNh0R3fW8hUh5OM1U</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BotTest</Value>
+    </Setting>
+    <Setting Name="AppServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">note-zakirov-r</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
